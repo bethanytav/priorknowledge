@@ -1,5 +1,5 @@
 # Prior Knowledge Project:
-This repository exists for the purpose of allowing individuals to reproduce results from the publication "Prior and current experiences impact perceived effort when learning new skills". Data are fully de-identified.
+This repository exists for the purpose of allowing individuals to reproduce results from the publication "Prior and current experiences impact perceived effort when learning new skills". Data are fully de-identified. All materials and guides used for the project are included in Appendix A.
 
 # General Information:
 - main goal: investigate the relationship of how prior knowledge impacts skill learning
